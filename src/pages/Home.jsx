@@ -68,8 +68,7 @@ const Home = () => {
         <h2>Developer | MERN | Flutter | Django</h2>
 
         <p className="intro">
-          "An enthusiastic  Developer with hands-on experience in HTML, CSS,
-          JavaScript, React, and Flutter for mobile application development.
+          "A FullStack Java Developer with hands-on experience in Spring Boot, React / Angular and Flutter for mobile application development.
           Can work in the team across multiple platforms. Let's connect and collaborate!"
         </p>
 
