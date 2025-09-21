@@ -65,12 +65,10 @@ const Home = () => {
       </div>
       <div className="right-home">
         <h1>Hi I'm Shailendra Mahadule</h1>
-        <h2>Developer | MERN | Flutter | Django</h2>
+        <h2>FullStack Developer</h2>
 
         <p className="intro">
-          "An enthusiastic  Developer with hands-on experience in HTML, CSS,
-          JavaScript, React, and Flutter for mobile application development.
-          Can work in the team across multiple platforms. Let's connect and collaborate!"
+          "Java Fullstack Developer with hands-on experience in Spring Boot, Microservices, Angular, and React. Skilled in building scalable applications, containerization with Docker, and currently exploring Cloud technologies to deliver robust, end-to-end solutions"
         </p>
 
      

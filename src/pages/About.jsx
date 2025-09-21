@@ -20,6 +20,10 @@ import {
   redux,
   flutter,
   dart,
+  java,
+  spring,
+  ag,
+  Docker
 } from "../assets/tech-stack/tech-stack-export";
 import Resume from "./components/Resume";
 import { motion, useScroll, useSpring } from "framer-motion";
@@ -29,8 +33,13 @@ const About = () => {
 
   const skills = [
     { name: "C++", image: c },
+    { name: "Java", image: java },
+    { name: "Angular", image: ag },
+    { name: "SpringBoot", image: spring },
     { name: "Python", image: python },
     { name: "JavaScript", image: js },
+    { name: "Docker", image: Docker },
+
     { name: "HTML", image: html },
     { name: "CSS", image: css },
     { name: "React.js", image: react },
@@ -48,6 +57,9 @@ const About = () => {
     { name: "Material UI", image: mui },
     { name: "Tailwind CSS", image: tailwind },
     { name: "Bootstrap", image: bootstrap },
+    
+
+
   ];
   const [windowWidth, setWindowWidth] = useState(window.innerWidth < 600);
 

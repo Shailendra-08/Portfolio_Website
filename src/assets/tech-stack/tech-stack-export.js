@@ -4,8 +4,11 @@ export { default as django } from './django.png'
 export { default as python } from './python.png'
 export { default as c } from './c.png'
 
+export {default as java} from './java_logo.png'
 
-
+export {default as spring} from'./spring_logo.png'
+export {default as ag} from'./ag.png'
+export {default as Docker} from './docker.png'
 
 
 export { default as css } from './css-icon.png'
